@@ -15,6 +15,6 @@
 <div>
   <img height-"180cm" src="https://github-readme-stats.vercel.app/api?username=carlos-allbuquerque&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   
-  <img height="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-allbuquerque&layout=compact&langs_count=16&theme=blue-green" style="max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-allbuquerque&layout=compact&langs_count=16&theme=blue-green" style="max-width: 100%;"/>
 </div>
 
