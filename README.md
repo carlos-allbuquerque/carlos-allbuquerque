@@ -3,7 +3,7 @@
 
 
 
-- Desnvolvedor full-stack
+- Desenvolvedor full-stack
 - Cursando Bacharelado em Sistemas de Informação na UFPB
 - Aluno do Bootcamp full-stack da Driven
 
