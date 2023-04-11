@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/)
 
 
-- Desenvolvedor full-stack junior
+- Desenvolvedor Full Stack junior
 - Cursando Bacharelado em Sistemas de Informação na <a href="http://www.ccae.ufpb.br/si">UFPB</a>
 - <img src="https://wakatime.com/badge/user/189b46e9-760b-48df-ba64-dec3f4c93ebb.svg">
 
