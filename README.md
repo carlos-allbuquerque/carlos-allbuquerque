@@ -1,11 +1,11 @@
 # Olá, eu sou o Carlos👋
-<img src="https://wakatime.com/badge/user/189b46e9-760b-48df-ba64-dec3f4c93ebb.svg">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/)
 
 
-
-- Desenvolvedor full-stack
+- Desenvolvedor full-stack junior
 - Cursando Bacharelado em Sistemas de Informação na UFPB
-- Aluno do Bootcamp full-stack da Driven
+- <img src="https://wakatime.com/badge/user/189b46e9-760b-48df-ba64-dec3f4c93ebb.svg">
 
 <div>
   <img height-"180cm" src="https://github-readme-stats.vercel.app/api?username=carlos-allbuquerque&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true"/>
