@@ -22,8 +22,8 @@
 </div>
 
 
-## 🧰 <b>Tecnologias e ferramentas</b>
-***
+# 🧰 <b>Tecnologias e ferramentas</b>
+
 <div>
 
  - <div style="display: inline_block">
