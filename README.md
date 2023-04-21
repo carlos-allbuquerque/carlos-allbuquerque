@@ -1,9 +1,17 @@
-# Olá! Eu sou o Carlos👋
+# <b>Olá! Eu sou o Carlos</b>👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Email][email-shield]][email-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/carlos-gabriel-albuquerque-dos-santos/
+[email-shield]: https://img.shields.io/badge/Email-DB4A39?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: mailto:dev.carlos.albuquerque@gmail.com
 
 
-- Desenvolvedor Full Stack junior
+- Desenvolvedor Full Stack
 - Cursando Bacharelado em Sistemas de Informação na <a href="http://www.ccae.ufpb.br/si">UFPB</a>
 - <img src="https://wakatime.com/badge/user/189b46e9-760b-48df-ba64-dec3f4c93ebb.svg">
 
@@ -13,9 +21,11 @@
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-allbuquerque&layout=compact&langs_count=16&theme=blue-green" style="max-width: 100%;"/>
 </div>
 
+
+## 🧰 <b>Tecnologias e ferramentas</b>
+***
 <div>
-  <h3>Tecnologias</h3>
-  
+
  - <div style="display: inline_block">
     <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -59,5 +69,12 @@
     <img alt="trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   </div>
  </div>
- 
+
+ ## <b>📚 Estudando</b>
+ ***
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+***
+
 ![Snake animation](https://github.com/carlos-allbuquerque/carlos-allbuquerque/blob/output/github-contribution-grid-snake.svg)
