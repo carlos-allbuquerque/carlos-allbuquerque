@@ -11,8 +11,8 @@
 [email-url]: mailto:dev.carlos.albuquerque@gmail.com
 
 
-- Desenvolvedor Full Stack;
-- Cursando Bacharelado em Sistemas de Informação na <a href="http://www.ccae.ufpb.br/si">UFPB</a>;
+- Desenvolvedor Full Stack
+- Cursando Bacharelado em Sistemas de Informação na <a href="http://www.ccae.ufpb.br/si">UFPB</a>
 - <img src="https://wakatime.com/badge/user/189b46e9-760b-48df-ba64-dec3f4c93ebb.svg">
 ## 📈 <b>GitHub Stats</b>
 <div>
