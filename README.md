@@ -14,13 +14,6 @@
 - Desenvolvedor Full Stack
 - Cursando Bacharelado em Sistemas de Informação na <a href="http://www.ccae.ufpb.br/si">UFPB</a>
 - <img src="https://wakatime.com/badge/user/189b46e9-760b-48df-ba64-dec3f4c93ebb.svg">
-## 📈 <b>GitHub Stats</b>
-<div>
-  <img height-"180cm" src="https://github-readme-stats.vercel.app/api?username=carlos-allbuquerque&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-allbuquerque&layout=compact&langs_count=16&theme=blue-green" style="max-width: 100%;"/>
-</div>
-
 
 ## 🧰 <b>Tecnologias e ferramentas</b>
 
@@ -72,6 +65,3 @@
 
 ## 📚 <b>Estudando</b>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-![Snake animation](https://github.com/carlos-allbuquerque/carlos-allbuquerque/blob/output/github-contribution-grid-snake.svg)
